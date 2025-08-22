@@ -1,52 +1,63 @@
-# Dev-Kit
-Welcome to DevKit! This is your go-to, open-source repository packed with essential cheat sheets for both Data Science and Software Engineering, and everything else in between.
+🚀 DevKit: The Ultimate Developer Cheat Sheet Collection
 
-## Data Science:
+Welcome to DevKit! This repository is your comprehensive, open-source collection of essential cheat sheets for Data Science, Software Engineering, and beyond. Explore the sections below to find what you need.
+
+📊 Data Science
 
 <details>
-  <summary>Click to view Machine Learning cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
+<summary>🧠 Machine Learning</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
 </details>
 
 <details>
-  <summary>Click to view Python cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
+<summary>🐍 Python</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
 </details>
 
 <details>
-  <summary>Click to view R cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
-</details>
-
-
-<details>
-  <summary>Click to view Database cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
+<summary>📈 R</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
 </details>
 
 <details>
-  <summary>Click to view other Data Science cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
+<summary>🗄️ Databases</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
 </details>
-
-## Software Engineering:
 
 <details>
-  <summary>Click to view Data Science cheat sheets</summary>
-
-  [Neural Network Optimization Sheet (Machine Learning Vs Deep Learning)](https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b) / [PDF Download](https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf)
-
+<summary>🔬 Other</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
 </details>
 
+💻 Software Engineering
 
+<details>
+<summary>🛠️ Tools & Frameworks</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
+</details>
 
+<details>
+<summary>🤖 DevOps</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🌐 Web Development</summary>
+<ul>
+<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+</ul>
+</details>
