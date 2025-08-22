@@ -14,8 +14,11 @@ Welcome to DevKit! This repository is your comprehensive, open-source collection
 <details>
 <summary>🐍 Python</summary>
 <ul>
-<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Python for Data Science Cheat Sheet</a> / <a href=[Python for Data Science Cheat Sheet! 🎉.pdf](https://github.com/user-attachments/files/21942918/Python.for.Data.Science.Cheat.Sheet.pdf)
-"">PDF Download</a></li>
+<li>
+[Python for Data Science Cheat Sheet! 🎉.pdf](https://github.com/user-attachments/files/21942934/Python.for.Data.Science.Cheat.Sheet.pdf)
+
+  
+</li>
 </ul>
 </details>
 
