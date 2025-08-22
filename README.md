@@ -1,8 +1,8 @@
-🚀 DevKit: The Ultimate Developer Cheat Sheet Collection
+# 🚀 DevKit: The Ultimate Developer Cheat Sheet Collection
 
 Welcome to DevKit! This repository is your comprehensive, open-source collection of essential cheat sheets for Data Science, Software Engineering, and beyond. Explore the sections below to find what you need.
 
-📊 Data Science
+## 📊 Data Science
 
 <details>
 <summary>🧠 Machine Learning</summary>
@@ -39,7 +39,7 @@ Welcome to DevKit! This repository is your comprehensive, open-source collection
 </ul>
 </details>
 
-💻 Software Engineering
+## 💻 Software Engineering
 
 <details>
 <summary>🛠️ Tools & Frameworks</summary>
