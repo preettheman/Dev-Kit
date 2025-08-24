@@ -72,7 +72,11 @@ Welcome to DevKit! This repository is your comprehensive, open-source collection
 <details>
 <summary>🤖 DevOps</summary>
 <ul>
-<li><a href="https://github.com/user-attachments/assets/4acc0019-1b4c-4ec9-97e8-9df296b7518b">Neural Network Optimization & Transformers Cheat Sheet</a> / <a href="https://github.com/user-attachments/files/21928000/NN.Optimization.Types.Transformers.Cheat.Sheet.pdf">PDF Download</a></li>
+  
+<li>
+  <a href="https://github.com/preettheman/Dev-Kit/blob/main/Software%20Engineering/Markdown%20Cheat%20Sheet.md">Markdown Cheat Sheet!</a>
+</li>
+
 </ul>
 </details>
 
