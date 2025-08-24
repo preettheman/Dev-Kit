@@ -30,7 +30,10 @@ Welcome to DevKit! This repository is your comprehensive, open-source collection
 
 <li>
   <a href="https://github.com/preettheman/Dev-Kit/blob/main/Data%20Science/NumPy%20Cheat%20Sheet.md">NumPy Cheat Sheet!</a>
+</li>
 
+<li>
+  <a href="https://github.com/preettheman/Dev-Kit/blob/main/Data%20Science/Matplotlib%20Cheat%20Sheet.md">Matplotlib Cheat Sheet!</a>
 </li>
 
 </ul>
