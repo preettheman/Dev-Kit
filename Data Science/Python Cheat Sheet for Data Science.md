@@ -1,4 +1,4 @@
-# 🚀 Python Data Science Power-Up Cheat Sheet!
+# Python Data Science Power-Up Cheat Sheet!
 
 Ready to supercharge your data science journey with Python? This cheat sheet is your trusty sidekick for navigating the essential libraries and making data sing! Let's dive in!
 
