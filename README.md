@@ -14,11 +14,17 @@ Welcome to DevKit! This repository is your comprehensive, open-source collection
 <details>
 <summary>🐍 Python</summary>
 <ul>
+  
+<!-- Just copy this per PDF and image, but change the link to whatever the file is uploaded, and change the name of the sheet as well -->
 <li>
-  <!-- Just copy this per PDF and image, but change the link to whatever the file is uploaded, and change the name of the sheet as well -->
-  <a href="https://github.com/user-attachments/files/21942934/Python.for.Data.Science.Cheat.Sheet.pdf">Python for Data Science Cheat Sheet!</a>
+  <a href="https://github.com/preettheman/Dev-Kit/blob/20bb9ae5cb7461c7ff6535b253b5f2b8a53d0dd5/Data%20Science/Python%20Cheat%20Sheet%20for%20Data%20Science.md">Python for Data Science Cheat Sheet!</a>
+</li>
+
+<li>
+  <a href="https://github.com/preettheman/Dev-Kit/blob/main/Data%20Science/Pandas%20Cheat%20Sheet.md">Pandas for Data Science Cheat Sheet!</a>
 
 </li>
+
 </ul>
 </details>
 
