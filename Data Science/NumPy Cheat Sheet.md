@@ -1,4 +1,4 @@
-# 🔢 NumPy Power-Up Cheat Sheet!
+# 🔢 NumPy Cheat Sheet!
 
 Ready to level up your numerical computing in Python? This NumPy cheat sheet is your essential guide to lightning-fast array operations and powerful mathematical functions! Let's get started!
 
