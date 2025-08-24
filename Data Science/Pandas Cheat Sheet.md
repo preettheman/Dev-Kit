@@ -78,18 +78,18 @@ df_from_array = pd.DataFrame(arr_data, columns=['ProductID', 'Price'])
 
 ```python
 # From CSV (Comma Separated Values) – your daily bread and butter!
-# df_csv = pd.read_csv('your_data.csv')
+df_csv = pd.read_csv('your_data.csv')
 
 # From Excel files
-# df_excel = pd.read_excel('your_data.xlsx', sheet_name='Sheet1')
+df_excel = pd.read_excel('your_data.xlsx', sheet_name='Sheet1')
 
 # From SQL databases (requires SQLAlchemy and database-specific drivers)
-# from sqlalchemy import create_engine
-# engine = create_engine('postgresql://user:pass@host:port/db_name')
-# df_sql = pd.read_sql('SELECT * FROM your_table', engine)
+from sqlalchemy import create_engine
+engine = create_engine('postgresql://user:pass@host:port/db_name')
+df_sql = pd.read_sql('SELECT * FROM your_table', engine)
 
 # From JSON files
-# df_json = pd.read_json('your_data.json')
+df_json = pd.read_json('your_data.json')
 ```
 
 -----
